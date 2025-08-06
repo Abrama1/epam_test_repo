@@ -2,8 +2,8 @@ Line 1 diff
 Line 2 diff
 Line 3 another
 Line 4 another
-Line 5
-Line 6
+Line 5 step 18
+Line 6 step 18
 Line 7
 Line 8
 Line 9
